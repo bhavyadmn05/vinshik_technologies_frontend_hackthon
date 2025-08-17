@@ -2,6 +2,8 @@
 
 A modern, responsive analytics dashboard built with vanilla HTML, CSS, and JavaScript. Features real-time data visualization, interactive charts, and a clean, professional interface.
 
+https://github.com/user-attachments/assets/61f6449f-acd2-46a4-bbd0-7350b4a0bd3f
+
 ## ✨ Features
 ![WhatsApp Image 2025-08-17 at 13 47 53_39f152f9](https://github.com/user-attachments/assets/7ca73222-8b98-4a8c-85fd-d11f8cc17ed8)
 
